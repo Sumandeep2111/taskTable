@@ -20,7 +20,7 @@ class TaskTableViewFileTableViewController: UITableViewController {
 
         // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
         // self.navigationItem.rightBarButtonItem = self.editButtonItem
-        tasks = ["buy milk","clean kittchen","wash dishes","pay bills"]
+        tasks = ["Important:Buy milk","Clean kittchen","Wash dishes","Pay bills"]
     }
 
     // MARK: - Table view data source
